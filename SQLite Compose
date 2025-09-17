@@ -1,0 +1,1 @@
+Projeto proposto pelo professor Marcelo Collado, aonde tínhamnos que criar uma tela que a pessoa escrevesse um título, conteúdo e outro campo de nossa preferência, após isso a pessoa salvaria essas informações e depois poderia excluir elas, funcionando como um CRUD
