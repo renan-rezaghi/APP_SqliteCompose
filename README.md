@@ -59,18 +59,6 @@ ui: Abriga os arquivos de interface de usuário, desenvolvidos utilizando Jetpac
 
 viewmodel: Contém a lógica de controle do aplicativo. O ViewModel gerencia a comunicação entre a UI e o banco de dados, além de realizar as operações necessárias para manipular os dados.
 
-Como Contribuir
-
-Se você deseja contribuir para este projeto, pode fazer isso facilmente seguindo estes passos:
-
-Faça um fork deste repositório.
-
-Crie uma branch para suas modificações.
-
-Faça as alterações e commit de suas modificações.
-
-Envie suas mudanças por meio de um Pull Request explicando as melhorias ou correções que você fez.
-
 Exemplo de Interface
 
 A interface do aplicativo foi desenvolvida com o objetivo de ser simples e intuitiva. O formulário para inserção de dados permite ao usuário adicionar novas entradas de forma rápida e fácil. A lista de registros é exibida em uma tela separada e inclui opções para editar e excluir entradas de maneira eficiente.
